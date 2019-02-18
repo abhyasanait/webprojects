@@ -1,0 +1,2 @@
+new text for mybranch file
+new text added for testing 
