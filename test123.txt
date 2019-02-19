@@ -1,14 +1,7 @@
-<<<<<<< HEAD
 new text added after the new branch2 committed.
 new text for mybranch file
 new text added for testing 
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
 1234
 56798
-=======
->>>>>>> parent of b71bed6... added 1234
-=======
->>>>>>> parent of b71bed6... added 1234
->>>>>>> 52124cf... updated after add
+
+updated 0217
